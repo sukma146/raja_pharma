@@ -1,0 +1,10 @@
+html,
+body {
+    height: 100%;
+    margin: 0;
+    overflow: hidden; /* Mencegah halaman dari scroll */
+}
+
+.min-h-screen {
+    height: 100vh; /* Pastikan elemen ini tidak melebihi tinggi layar */
+}
